@@ -1,5 +1,3 @@
-//comment for Lab 6 about git 
-
 /*
 I, Gage Zahn, confirm that the work for the
 following Code: Lab 5 for COP3502C named "ConnectFour"
